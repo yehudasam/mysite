@@ -20,11 +20,10 @@
 | `assets/` | תמונות |
 
 ## החלפת תמונות
-- **לוגו:** העלו קובץ בשם `assets/logo.png` – הוא יוצג אוטומטית (עד אז מוצג `logo.svg` הזמני).
-- **תמונה שלי:** העלו `assets/me.jpg` ושנו ב-`about.html` את `assets/me.svg` ל-`assets/me.jpg`.
+- **לוגו:** `assets/logo.jpg`
+- **תמונה שלי:** `assets/me.jpg`
+להחלפה – העלו קובץ חדש באותו שם בדיוק (אותיות קטנות).
 
 ## הוספת פרק
 ראו `episodes/_TEMPLATE.html.txt`.
 
-## תגובות מאזינים
-מסומן `PLACEHOLDER` בכל דף פרק – ימומש בשלב הבא (למשל Giscus, שמבוסס על GitHub Discussions).
